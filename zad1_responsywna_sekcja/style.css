@@ -1,16 +1,6 @@
 .my {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
     background-color: aliceblue;
     color: rgb(70, 199, 199);
     font-size: 10em;
-    height: 50vh;
     margin: 0;
-}
-
-.my1 {
-    background-color: aliceblue;
-    color: rgb(70, 199, 199);
-    font-size: 10em;
 }
